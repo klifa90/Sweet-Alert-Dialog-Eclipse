@@ -1,6 +1,8 @@
 Sweet Alert Dialog Adaption for Eclipse ADT
 ===================
 
+Original library: https://github.com/pedant/sweet-alert-dialog
+
 ## Setup
 Download and import both projects to your workspace.
 Add a dependency from sweetalerty to materialish-progress
